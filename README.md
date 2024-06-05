@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **William-Hayashi/William-Hayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello! I'm William
+I'm a student at FIAP, currently pursuing a degree in Systems Analysis and Development. I'm passionate about technology and always eager to learn and improve my skills. My interests include web development, data science, and open-source contributions. 🌐💻📊
+
+- Student currently pursuing a degree in Systems Analysis and Development
+- Building projects open sources
+- I work on personal and university projects
+- Fun fact: I like gym and run
+
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](williamkhayashi@gmail.com)
