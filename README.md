@@ -12,4 +12,5 @@ I'm a student at FIAP, currently pursuing a degree in Systems Analysis and Devel
 
 ---
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Hayashi&show_icons=true&theme=radical)
+<!--![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Hayashi&show_icons=true&theme=radical)
+--!>
